@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <h1>Lesson 2</h1>
-      <img src="" alt="" />
-      <img src="" alt="" />
+      <img src="https://www.google.com/search?q=tiger&oq=tiger&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyDQgBEC4YgwEYsQMYgAQyCggCEC4YsQMYgAQyDQgDEC4YgwEYsQMYgAQyCggEEAAYsQMYgAQyEAgFEC4YxwEYsQMY0QMYgAQyCggGEAAYsQMYgAQyDQgHEC4YgwEYsQMYgAQyBwgIEAAYgAQyCggJEC4YsQMYgATSAQkzMTA0ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8" alt="" />
+      <img src="https://www.google.com/search?q=tiger&oq=tiger&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyDQgBEC4YgwEYsQMYgAQyCggCEC4YsQMYgAQyDQgDEC4YgwEYsQMYgAQyCggEEAAYsQMYgAQyEAgFEC4YxwEYsQMY0QMYgAQyCggGEAAYsQMYgAQyDQgHEC4YgwEYsQMYgAQyBwgIEAAYgAQyCggJEC4YsQMYgATSAQkzMTA0ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8" alt="" />
       <img src="" alt="" />
       <img src="" alt="" />
     </>
